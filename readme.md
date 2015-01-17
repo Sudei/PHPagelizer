@@ -45,7 +45,7 @@ Using PHPagelizer Parallax is pretty simple. You can download the PHP and put th
 
 
 ### Step 3: Examples
-[Live Demo](http://kevin-wenger.ch/PHPagelizer)
+[Live Demo](http://kevin-wenger.ch/sideproject/PHPagelizer)
 
 ***
 
@@ -59,4 +59,5 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
 
 ## Contributors
 
-- [Kevin Wenger](http://github.com/Sudei)
+- [Kevin Wenger - github](http://github.com/Sudei)
+- [Kevin Wenger - Bitbucket](https://bitbucket.org/WengerK)
